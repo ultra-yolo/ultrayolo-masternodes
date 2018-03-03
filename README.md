@@ -1,15 +1,10 @@
-Dash Core staging tree 0.12.2
+UltraYOLO Core staging tree 0.0.1
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
-
-https://www.dash.org
-
-
-What is Dash?
+What is UltraYOLO?
 ----------------
 
-Dash is an experimental new digital currency that enables anonymous, instant
+UltraYOLO is an experimental new digital currency that enables anonymous, instant
 payments to anyone, anywhere in the world. Dash uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. Dash Core is the name of the open
